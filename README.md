@@ -1,5 +1,5 @@
 ## 📌 Description
-This project implements and compares two classification approaches — Multi-Layer Perceptron (MLP) and Support Vector Machine (SVM) — on a custom dataset for binary classification (C1 and C2).
+This project implements and compares two classification approaches — Multi-Layer Perceptron (MLP) and Support Vector Machine (SVM) — on a custom dataset for binary classification (C1 and C2)
 
 ## ✅ Key Features:
 
